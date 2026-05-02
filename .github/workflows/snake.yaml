@@ -14,6 +14,7 @@ jobs:
   generate:
     permissions:
       contents: write
+      actions: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
@@ -32,3 +33,31 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+
+      # Cleanup all 3 workflows in one VM
+      - name: Delete old snake workflow runs
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          token: ${{ github.token }}
+          repository: ${{ github.repository }}
+          retain_days: 7
+          keep_minimum_runs: 3
+          workflow_name: "Generate snake animation"
+
+      - name: Delete old stats workflow runs
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          token: ${{ github.token }}
+          repository: ${{ github.repository }}
+          retain_days: 7
+          keep_minimum_runs: 3
+          workflow_name: "Generate stats card"
+
+      - name: Delete old languages workflow runs
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          token: ${{ github.token }}
+          repository: ${{ github.repository }}
+          retain_days: 7
+          keep_minimum_runs: 3
+          workflow_name: "Generate languages card"
