@@ -35,10 +35,6 @@
 
 ###
 
-<img align="right" height="340" src="https://www.animenachrichten.de/wp-content/uploads/2015/10/sankarea-news.jpg"  />
-
-###
-
 <p align="left">Idk this kinda a placeholder<br><br>alt of Arti<br><br>Join csrinru!!!<br><br>Me professional vibecoder hire pls<br><br>Love breaking stuff with Ida Pro and Jeb Pro hehe</p>
 
 ###
