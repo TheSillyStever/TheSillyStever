@@ -35,11 +35,11 @@
 
 ###
 
-<p align="left">Student with a focus on reverse engineering alongside application security, backend development
-Currently working on:
-- Backend and security architecture for CS class project
-- Android application analysis and Smali tooling
-- CTF challenges, primarily reverse engineering
+<p align="left">Student with a focus on reverse engineering alongside application security, backend development<br>
+Currently working on:<br>
+- Backend and security architecture for CS class project<br>
+- Android application analysis and Smali tooling<br>
+- CTF challenges, primarily reverse engineering<br>
 - Algorithmic programming competitions</p>
 
 ###
