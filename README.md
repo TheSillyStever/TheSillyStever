@@ -52,15 +52,16 @@
 ###
 
 My older Private Projects include:
+<br>
 HiddenGems:
-
+<br>
 <img width="793" height="563" alt="Screenshot 2026-07-14 122540" src="https://github.com/user-attachments/assets/cf1e085e-2140-4a74-9a94-be89b607cc89" />
-
-
-Custom server
+<br>
+Custom server:
+<br>
 <img width="773" height="890" alt="Screenshot 2026-07-14 122549" src="https://github.com/user-attachments/assets/7878684f-4146-465e-a73e-33e4a97a42bd" />
-
-
-Privacy focused Android Patcher
+<br>
+Privacy focused Android Patcher:
+<br>
 <img width="578" height="900" alt="Screenshot 2026-07-14 122528" src="https://github.com/user-attachments/assets/05f565d1-1f0a-4efe-8056-3018c8a5c904" />
 
