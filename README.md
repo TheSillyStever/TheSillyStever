@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">Idk what to write here, this is kinda a placeholder<br><br>alt of Arti<br><br>Join csrinru!!!<br><br>Love breaking stuff with Ida Pro and Jeb Pro hehe</p>
+<p align="left">Idk what to write here, this is kinda a placeholder<br><br>alt of Arti<br><br>Mostly working privately<br><br>Join csrinru!!!<br><br>Love breaking stuff with Ida Pro and Jeb Pro hehe</p>
 
 ###
 
@@ -44,7 +44,8 @@
 <img src="https://raw.githubusercontent.com/TheSillyStever/TheSillyStever/snake-output/snake.svg" alt="Snake animation" />
 
 ###
-
+Visits:
+<br>
 <div align="center">
   <img src="https://count.getloli.com/@:TheSillyStever?theme=minecraft&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
