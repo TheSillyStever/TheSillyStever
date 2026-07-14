@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Im a professional professional or smth like that</h2>
+<h2 align="left">Hi 👋!</h2>
 
 ###
 
@@ -35,7 +35,12 @@
 
 ###
 
-<p align="left">Idk what to write here, this is kinda a placeholder<br><br>alt of Arti<br><br>Mostly working privately<br><br>Join csrinru!!!<br><br>Love breaking stuff with Ida Pro and Jeb Pro hehe</p>
+<p align="left">Student with a focus on reverse engineering alongside application security, backend development
+Currently working on:
+- Backend and security architecture for CS class project
+- Android application analysis and Smali tooling
+- CTF challenges, primarily reverse engineering
+- Algorithmic programming competitions</p>
 
 ###
 
@@ -52,7 +57,7 @@ Visits:
 
 ###
 
-My older Private Projects include:
+My Private Projects include:
 <br>
 Custom server:
 <br>
