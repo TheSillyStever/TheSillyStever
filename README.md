@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Im a professional skid</h2>
+<h2 align="left">Hi 👋! Im a professional professional or smth like that</h2>
 
 ###
 
@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">Idk this kinda a placeholder<br><br>alt of Arti<br><br>Join csrinru!!!<br><br>Me professional vibecoder hire pls<br><br>Love breaking stuff with Ida Pro and Jeb Pro hehe</p>
+<p align="left">Idk what to write here, this is kinda a placeholder<br><br>alt of Arti<br><br>Join csrinru!!!<br><br>professional vibecoder hire pls<br><br>Love breaking stuff with Ida Pro and Jeb Pro hehe</p>
 
 ###
 
@@ -46,7 +46,7 @@
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/@:TheSillyStever?theme=booru-lewd&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+  <img src="https://count.getloli.com/@:TheSillyStever?theme=minecraft&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
 ###
