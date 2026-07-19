@@ -38,6 +38,9 @@
 <p align="left">Student with a focus on reverse engineering alongside application security, backend development<br>
 Currently working on:<br>
 - Backend and security architecture for CS class project<br>
+- Kinda just disassembling stuff
+  
+Past:<br>
 - Android application analysis and Smali tooling<br>
 - CTF challenges, primarily reverse engineering<br>
 - Algorithmic programming competitions</p>
