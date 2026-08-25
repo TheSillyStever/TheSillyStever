@@ -12,7 +12,7 @@
 <div align="left">
   <img src="https://static.wikitide.net/zenithwiki/0/0d/IDAIcon.png" height="30" alt="idaprologo"/>
   <img width="12" />
-  <img src="https://pcsoftware.eu/1128-home_default/jeb-pro-floating-license-12-month.jpg" height="30" alt="jebprologo"  />
+  <img src="https://www.pnfsoftware.com/img/jeb-logo-3.gif" height="33" alt="jebprologo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
