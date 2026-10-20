@@ -57,20 +57,3 @@ Visits:
 <div align="center">
   <img src="https://count.getloli.com/@:TheSillyStever?theme=minecraft&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
-
-###
-
-My Private Projects include:
-<br>
-Custom server:
-<br>
-<img width="773" height="890" alt="Screenshot 2026-07-14 122549" src="https://github.com/user-attachments/assets/7878684f-4146-465e-a73e-33e4a97a42bd" />
-<br>
-HiddenGems:
-<br>
-<img width="793" height="536" alt="Screenshot 2026-07-14 122540" src="https://github.com/user-attachments/assets/605629d8-04d7-4124-9863-c619c1536f1b" />
-<br>
-Privacy focused Android Patcher:
-<br>
-<img width="578" height="900" alt="Screenshot 2026-07-14 122528" src="https://github.com/user-attachments/assets/05f565d1-1f0a-4efe-8056-3018c8a5c904" />
-
