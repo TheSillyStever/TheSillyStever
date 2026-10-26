@@ -37,7 +37,7 @@
 
 <p align="left">Student with a focus on reverse engineering alongside application security, backend development<br>
 Currently working on:<br>
-- Backend and security architecture for CS class project<br>
+- Framework combating Rust strings and obfstr + assemble/classify communication channels of malware <br>
 - Kinda just disassembling stuff
   
 Past:<br>
